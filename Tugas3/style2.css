@@ -56,7 +56,7 @@ p {
   padding: 20px;
   width: 300px;
   text-align: center;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 5px 5px rgba(0,0,0,0.1);
 }
 
 /* 6. Selector Descendant - Elemen dalam kartu */
