@@ -1,0 +1,7 @@
+.halaman {
+  display: grid;
+  grid-template-columns: 1fr 200px;
+  grid-template-rows: 70px 1fr 60px;
+  grid-template-areas:
+    "header header" "artikel sidebar" "footer footer";
+}
